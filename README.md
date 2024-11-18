@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on creating e-library management system
 - 📫 How to reach me is through my favourite email address of  abdulkarimmacho@gmail.com
-- 😄 Pronouns: Officila_Countzero
+- 😄 Pronouns: Official_Countzero
 - ⚡ Fun fact: I actually don't like to code infront of people... bla bla bla
 
 <!---
